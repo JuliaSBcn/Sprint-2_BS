@@ -1,0 +1,40 @@
+$font-family-sans-serif:'Lora', serif;
+
+$primary: #5265e1;
+$secondary: #fa5959;
+
+
+
+
+body{
+	overflow-x: hidden;
+}
+
+.blue-form-right {
+	position: absolute;
+	z-index: -1;
+	width: 400%;
+	height: 75%;
+	top: 30%;
+	left: 30%;
+}
+
+.blue-form-left {
+	position: absolute;
+	z-index: -1;
+	width: 400%;
+	height: 95%;
+	top: 25%;
+	right: 25%;
+}
+
+.card .img-size {
+	width: 25%;
+}
+
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
