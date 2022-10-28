@@ -1,0 +1,23 @@
+{
+  "name": "sprint-2_bs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css main.css --content index.html -o css/reduced.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaSBcn/Sprint-2_BS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaSBcn/Sprint-2_BS/issues"
+  },
+  "homepage": "https://github.com/JuliaSBcn/Sprint-2_BS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
